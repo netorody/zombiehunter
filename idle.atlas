@@ -1,0 +1,258 @@
+
+Idle.png
+size: 1507,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Office/Body
+  rotate: false
+  xy: 928, 106
+  size: 102, 112
+  orig: 102, 112
+  offset: 0, 0
+  index: -1
+Office/LeftFoot1
+  rotate: true
+  xy: 1239, 25
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+Office/LeftFoot2
+  rotate: true
+  xy: 937, 7
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Office/LeftFoot3
+  rotate: false
+  xy: 1067, 2
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1
+Office/LeftHand1
+  rotate: true
+  xy: 1032, 109
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+Office/LeftHand2
+  rotate: false
+  xy: 824, 60
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+Office/Mohawk
+  rotate: true
+  xy: 510, 37
+  size: 181, 164
+  orig: 182, 164
+  offset: 0, 0
+  index: -1
+Office/Mouth
+  rotate: false
+  xy: 697, 7
+  size: 93, 45
+  orig: 93, 45
+  offset: 0, 0
+  index: -1
+Office/Pants
+  rotate: false
+  xy: 510, 2
+  size: 92, 33
+  orig: 92, 33
+  offset: 0, 0
+  index: -1
+Office/RightFoot1
+  rotate: false
+  xy: 1422, 3
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+Office/RightFoot2
+  rotate: true
+  xy: 1002, 8
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Office/RightFoot3
+  rotate: false
+  xy: 1380, 133
+  size: 114, 85
+  orig: 114, 85
+  offset: 0, 0
+  index: -1
+Office/RightHand1
+  rotate: true
+  xy: 1088, 109
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+Office/RightHand2
+  rotate: false
+  xy: 889, 60
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+Office/Side
+  rotate: false
+  xy: 256, 4
+  size: 252, 214
+  orig: 252, 214
+  offset: 0, 0
+  index: -1
+Office/eye
+  rotate: false
+  xy: 1032, 146
+  size: 156, 72
+  orig: 156, 72
+  offset: 0, 0
+  index: -1
+Punk/Body
+  rotate: false
+  xy: 824, 106
+  size: 102, 112
+  orig: 102, 112
+  offset: 0, 0
+  index: -1
+Punk/LeftFoot1
+  rotate: true
+  xy: 1300, 2
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+Punk/LeftFoot2
+  rotate: true
+  xy: 872, 7
+  size: 51, 63
+  orig: 52, 63
+  offset: 1, 0
+  index: -1
+Punk/LeftFoot3
+  rotate: false
+  xy: 1285, 156
+  size: 93, 62
+  orig: 93, 62
+  offset: 0, 0
+  index: -1
+Punk/LeftHand
+  rotate: false
+  xy: 1379, 64
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+Office/LeftHand
+  rotate: false
+  xy: 1379, 64
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+Punk/LeftHand1
+  rotate: true
+  xy: 1018, 69
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+Punk/LeftHand2
+  rotate: false
+  xy: 954, 61
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+Punk/Mohawk
+  rotate: false
+  xy: 676, 54
+  size: 146, 164
+  orig: 146, 164
+  offset: 0, 0
+  index: -1
+Punk/Mouth
+  rotate: false
+  xy: 1190, 155
+  size: 93, 63
+  orig: 93, 63
+  offset: 0, 0
+  index: -1
+Punk/Pants
+  rotate: false
+  xy: 604, 3
+  size: 91, 32
+  orig: 91, 32
+  offset: 0, 0
+  index: -1
+Punk/RightFoot1
+  rotate: true
+  xy: 1361, 2
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+Punk/RightFoot2
+  rotate: false
+  xy: 1443, 68
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+Punk/RightFoot3
+  rotate: true
+  xy: 1301, 48
+  size: 106, 76
+  orig: 106, 76
+  offset: 0, 0
+  index: -1
+Punk/RightHand
+  rotate: true
+  xy: 1168, 8
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+Office/RightHand
+  rotate: true
+  xy: 1168, 8
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+Punk/RightHand1
+  rotate: true
+  xy: 1074, 72
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+Punk/RightHand2
+  rotate: false
+  xy: 792, 9
+  size: 78, 43
+  orig: 78, 43
+  offset: 0, 0
+  index: -1
+Punk/Side
+  rotate: false
+  xy: 2, 4
+  size: 252, 214
+  orig: 252, 214
+  offset: 0, 0
+  index: -1
+Punk/eye
+  rotate: false
+  xy: 1144, 72
+  size: 155, 72
+  orig: 156, 72
+  offset: 1, 0
+  index: -1
